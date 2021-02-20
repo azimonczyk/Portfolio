@@ -28,12 +28,12 @@ During course, first steps in:
 
 ## Courses
 - Codecademy
-- QA-Courses (Certificate No. ST-016-008)
-- Geek Girls Carrots (Biznes w Internecie: narzędzia cyfrowe w rozwoju zawodowym)
-- More Bananas (#KarmimyWiedzą: Facebook)
+- QA-Courses ([Certificate No. ST-016-008](https://github.com/azimonczyk/Portfolio/blob/main/QA-Courses.pdf))
+- Geek Girls Carrots ([Biznes w Internecie: narzędzia cyfrowe w rozwoju zawodowym](https://github.com/azimonczyk/Portfolio/blob/main/Narzędzia%20cyfrowe%20w%20rozwoju%20zawodowym.pdf))
+- More Bananas ([#KarmimyWiedzą: Facebook](https://github.com/azimonczyk/Portfolio/blob/main/Facebook.pdf))
 
 ## My projects
-- The Course Portfolio - Testing Duolingo applications<br>
+- [The Course Portfolio - Testing Duolingo applications](https://github.com/azimonczyk/Portfolio/blob/main/The%20Course%20Portfolio%20.pdf)<br>
 For my course project I picked Duolingo, which is an application for learning foreign languages.
 - [Private project](https://github.com/azimonczyk/SQL-Practice-Project)<br>
 Currently I'm learning Korean language.

@@ -33,7 +33,7 @@ During course, first steps in:
 - More Bananas ([#KarmimyWiedzą: Facebook](https://github.com/azimonczyk/Portfolio/blob/main/Facebook.pdf))
 
 ## My projects
-- [The Course Portfolio - Testing Duolingo applications](https://github.com/azimonczyk/Portfolio/blob/main/The%20Course%20Portfolio%20.pdf)<br>
+- [The Course Portfolio - Testing Duolingo applications](https://github.com/azimonczyk/Portfolio/blob/main/The%20Course%20Portfolio.pdf)<br>
 For my course project I picked Duolingo, which is an application for learning foreign languages.
 - [Private project](https://github.com/azimonczyk/SQL-Practice-Project)<br>
 Currently I'm learning Korean language.
